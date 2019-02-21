@@ -1,3 +1,43 @@
-header{
-    
+/**
+    *Styling for my Portfolio page
+**/
+
+*{
+box-sizing: border-box;
+text-align: left;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+header {
+float:left;
+height:10%;
+width: 100%;
+background: lightgreen;
+font-family: 'Georgia', Times, 'Times New Roman', serif;
+} 
+.bio{
+    position: fixed;
+    right:425px;
+    top:0;
+}
+.portfolio{
+    position:fixed;
+    right:265px;
+    top:0;
+}
+.contact{
+    position:fixed;
+    right:120px;
+    top:0;
+}
+.extras{
+    position:fixed;
+    right:0;
+    top:0;
+}
+.container2 {
+    position:relative;
+    text-align:center;
+}
+#bio-image {
+    height: 300px;
 }
