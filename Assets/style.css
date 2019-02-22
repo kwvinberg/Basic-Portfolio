@@ -18,26 +18,10 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
     right:425px;
     top:0;
 }
-.portfolio{
-    position:fixed;
-    right:265px;
-    top:0;
-}
-.contact{
-    position:fixed;
-    right:120px;
-    top:0;
-}
-.extras{
-    position:fixed;
-    right:0;
-    top:0;
-}
 .container2 {
     position:relative;
-    text-align:left;
     margin:0 200px;
-    font-size:20px;
+    font-size:15px;
     padding:20px;
     background-color:lightblue;
     top:100px;
@@ -45,9 +29,7 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 #bio-image {
     height: 300px;
-}
-#bio-para{
-    float:left;
+    float:right;
 }
 .links{
     float:right
