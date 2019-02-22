@@ -10,14 +10,9 @@ header {
 float:left;
 height:10%;
 width: 100%;
-background: lightgreen;
+background:url(images/headerimg.jpg) 0% 100% no-repeat;
 font-family: 'Georgia', Times, 'Times New Roman', serif;
 } 
-.bio{
-    position: fixed;
-    right:425px;
-    top:0;
-}
 .container2 {
     position:relative;
     margin:0 200px;
@@ -25,7 +20,6 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
     padding:20px;
     background-color:lightblue;
     top:100px;
-
 }
 #bio-image {
     height: 300px;
@@ -38,3 +32,7 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
     align-content:center;
     margin:0 200px;
 }
+.bio:hover{
+    color:white;
+}
+.
