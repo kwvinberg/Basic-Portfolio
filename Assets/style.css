@@ -37,6 +37,11 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
     position:relative;
     text-align:left;
     margin:0 200px;
+    font-size:20px;
+    padding:20px;
+    background-color:lightblue;
+    top:100px;
+
 }
 #bio-image {
     height: 300px;
@@ -46,4 +51,8 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 .links{
     float:right
+}
+.port-links{
+    align-content:center;
+    margin:0 200px;
 }
