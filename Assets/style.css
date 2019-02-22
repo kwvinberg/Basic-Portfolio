@@ -30,9 +30,10 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 .port-links{
     align-content:center;
-    margin:0 200px;
+    margin:0 auto;
+    float:left;
 }
 .bio:hover{
     color:white;
 }
-.
+
