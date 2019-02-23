@@ -35,6 +35,7 @@ a{
     align-content:center;
     margin:0 auto;
     float:left;
+    padding: 200px;
 }
 .bio:hover{
     color:white;
